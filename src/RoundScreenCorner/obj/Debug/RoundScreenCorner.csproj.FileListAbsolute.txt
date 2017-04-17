@@ -1,0 +1,10 @@
+c:\users\nicolas van bossuyt\documents\visual studio 2017\Projects\RoundScreenCorner\RoundScreenCorner\bin\Debug\RoundScreenCorner.exe.config
+c:\users\nicolas van bossuyt\documents\visual studio 2017\Projects\RoundScreenCorner\RoundScreenCorner\bin\Debug\RoundScreenCorner.exe
+c:\users\nicolas van bossuyt\documents\visual studio 2017\Projects\RoundScreenCorner\RoundScreenCorner\bin\Debug\RoundScreenCorner.pdb
+c:\users\nicolas van bossuyt\documents\visual studio 2017\Projects\RoundScreenCorner\RoundScreenCorner\obj\Debug\RoundScreenCorner.csprojResolveAssemblyReference.cache
+c:\users\nicolas van bossuyt\documents\visual studio 2017\Projects\RoundScreenCorner\RoundScreenCorner\obj\Debug\RoundScreenCorner.Form1.resources
+c:\users\nicolas van bossuyt\documents\visual studio 2017\Projects\RoundScreenCorner\RoundScreenCorner\obj\Debug\RoundScreenCorner.Properties.Resources.resources
+c:\users\nicolas van bossuyt\documents\visual studio 2017\Projects\RoundScreenCorner\RoundScreenCorner\obj\Debug\RoundScreenCorner.csproj.GenerateResource.Cache
+c:\users\nicolas van bossuyt\documents\visual studio 2017\Projects\RoundScreenCorner\RoundScreenCorner\obj\Debug\RoundScreenCorner.exe
+c:\users\nicolas van bossuyt\documents\visual studio 2017\Projects\RoundScreenCorner\RoundScreenCorner\obj\Debug\RoundScreenCorner.pdb
+c:\users\nicolas van bossuyt\documents\visual studio 2017\Projects\RoundScreenCorner\RoundScreenCorner\obj\Debug\RoundScreenCorner.Option.resources
